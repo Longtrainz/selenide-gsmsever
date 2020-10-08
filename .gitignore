@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Files to be ignored for IntelliJ IDEA Project
+.idea/
+.gradle/
+build/
+allure-results/
+*.iml
+*.iws
+*.class
+test.Android_IOS-Parallel_Remote.xml
+Logging.log
+
+
+allure-report/
+screenshots/
+target/
+testngOutput/
+src/main/assembly/
+src/test/resources/testng.xml
